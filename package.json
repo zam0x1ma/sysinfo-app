@@ -1,0 +1,22 @@
+{
+  "name": "sysinfo-app",
+  "version": "1.0.0",
+  "description": "Simple system monitor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zam0x1ma/sysinfo-app.git"
+  },
+  "author": "zam0x1ma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zam0x1ma/sysinfo-app/issues"
+  },
+  "homepage": "https://github.com/zam0x1ma/sysinfo-app#readme",
+  "dependencies": {
+    "electron": "^16.0.5"
+  }
+}
